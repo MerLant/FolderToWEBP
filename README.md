@@ -1,2 +1,2 @@
 # FolderToWEBP
-Convert all image (jpeg, jpg, png) in folder to webp
+Данный скрипт конвертирует все картинки (jpeg, jpg, png) в папке в WEBP 
